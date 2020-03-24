@@ -20,7 +20,7 @@ libpng=1.6.17=0
 markupsafe=0.23=py35_0
 matplotlib=1.5.1=np110py35_0
 mccabe=0.3.1=py35_0
-mistune=0.7.1=py35_0
+mistune=0.8.1=py35_0
 mkl=11.3.1=0
 nbconvert=4.1.0=py35_0
 nbformat=4.0.1=py35_0
