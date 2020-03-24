@@ -10,7 +10,7 @@ ipykernel=4.2.2=py35_0
 ipython=4.1.1=py35_0
 ipython_genutils=0.1.0=py35_0
 ipywidgets=4.1.1=py35_0
-jinja2=2.8=py35_0
+jinja2=2.10.1=py35_0
 jsonschema=2.4.0=py35_0
 jupyter=1.0.0=py35_1
 jupyter_client=4.1.1=py35_0
