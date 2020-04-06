@@ -2,7 +2,7 @@ appnope==0.1.0
 cycler==0.10.0
 decorator==4.4.2
 flake8==2.5.1
-#freetype==2.5.5
+freetype==2.5.5
 ipykernel==4.2.2
 ipython==4.1.1
 ipython_genutils==0.1.0
@@ -13,9 +13,9 @@ jupyter==1.0.0
 jupyter_client==4.1.1
 jupyter_console==4.1.0
 jupyter_core==4.0.6
-#libpng==1.6.17
+libpng==1.6.17
 markupsafe==0.23
-#matplotlib==1.5.1
+matplotlib==1.5.1
 mccabe==0.3.1
 mistune==0.8.1
 mkl==2019.0
