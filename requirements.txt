@@ -4,7 +4,7 @@ decorator==4.4.2
 flake8==2.5.1
 freetype==2.5.5
 ipykernel==4.2.2
-ipython==4.1.1
+ipython==7.16.3
 ipython_genutils==0.1.0
 ipywidgets==4.1.1
 jinja2==2.11.1
