@@ -54,6 +54,6 @@ terminado==0.5
 tk==8.5.18
 tornado==4.3
 traitlets==4.1.0
-wheel==0.29.0
+wheel==0.38.1
 xz==5.0.5
 zlib==1.2.8
